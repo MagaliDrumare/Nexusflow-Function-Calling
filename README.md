@@ -2,6 +2,10 @@
 Nexusflow has released Athene-Llama3-70B, an open-weight chat model fine-tuned from Meta AI’s Llama-3-70B. Athene-70B has achieved an Arena-Hard-Auto score of 77.8%, rivaling proprietary models like GPT-4o and Claude-3.5-Sonnet. 
 - https://www.marktechpost.com/2024/07/21/athene-llama3-70b-released-an-open-weight-llm-trained-through-rlhf-based-on-llama-3-70b-instruct/
 
+Athene-70B has achieved an Arena-Hard-Auto score of 77.8%, rivaling proprietary models like GPT-4o and Claude-3.5-Sonnet.
+Arena-Hard-Auto-v0.1 is an automatic evaluation tool for instruction-tuned LLMs. It contains 500 challenging user queries. 
+- https://github.com/lm-sys/arena-hard-auto
+
 
 # Nexusflow-Function-Calling with LLM 
 
